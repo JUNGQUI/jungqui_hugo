@@ -2,7 +2,7 @@
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
 baseurl                 = "https://jungqui.github.io/"
 DefaultContentLanguage  = "en"
-title                   = "Hugo Future Imperfect Slim"
+title                   = "JungQui DEVLOG"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
 disqusShortname         = ""
